@@ -102,9 +102,9 @@ The Wordle Game follows these main requirements:
 
 ### 🔨 Built With <a id="built-with"></a>
 
-* ![Java][Java-url]
-* ![Java Swing][Swing-url]
-* ![Netbeans][Netbeans-url]
+* [![Java][Java]][Java-url]
+* [![Java Swing][Swing]][Java-url]
+* [![Netbeans][Netbeans]][Netbeans-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
