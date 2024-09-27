@@ -18,7 +18,7 @@
 <h3 align="center">Wordle Game</h3>
 
   <p align="center">
-    A Java-based Wordle game implementing a Model-View-Controller (MVC) architecture. This game involves two players: Player 1 who selects the word, and Player 2 who tries to guess the word within a set number of attempts. The game includes a ranking system, a congratulatory or encouragement message at the end of the game, and allows navigation between windows through a menu.
+The project is about a Java-based Wordle game that adopts a Model-View-Controller (MVC) architecture. The game consists of two players: Player 1 who selects the word, and Player 2 who tries to guess the word within a particular amount of attempts. The game has a ranking system, a celebratory or encouragement message at the end of a try, and allows navigation between windows through the menu.
     <br />
     <a href="https://github.com/vectorete/wordle-game"><strong>Explore the docs »</strong></a>
     <br />
@@ -143,19 +143,19 @@ To get a local copy up and running follow these simple steps.
 ### 🌫️ Game Flow <a id="game-flow"></a>
 
 1. **Player 1 Setup**:
-    - Player 1 chooses the word length (3 to 5 letters) and enters the word to be guessed.
+    -  Player 1 picks the word length (ranging from 3 to 9 letters), the number of attempts (ranging from 1 to 10 attempts), and inputs the word to be guessed.
 
 2. **Player 2 Gameplay**:
-    - Player 2 sees the word length and makes guesses. Feedback is provided after each attempt.
-    - Player 2 has 8 attempts to guess the word.
+    - Player 2 observes the word length and formulates guesses. Feedback is given after each try
+    - Player 2 has up to the number of amounts configured by Player 1.
 
 3. **End Game**:
     - At the end of the game, the number of attempts is recorded.
-    - If Player 2 guesses the word, a congratulatory image is shown; otherwise, an encouragement image is displayed.
-    - Player 2's name is requested to store in the ranking.
+    - If Player 2 guesses the word, a congratulations image is presented; otherwise, an encouraging image is displayed.
+    - Player 2's name is requested to be stored in the ranking.
 
 4. **Viewing the Ranking**:
-    - From the Player 1 Window, the ranking can be viewed, showing the top 10 players based on the number of attempts.
+    - From the Player 1 Window, the ranking can be examined, indicating the top 10 players based on the number of attempts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
