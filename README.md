@@ -211,7 +211,7 @@ Project Link: [https://github.com/vectorete/wordle-game](https://github.com/vect
 [license-shield]: https://img.shields.io/github/license/vectorete/wordle-game.svg?style=for-the-badge
 [license-url]: https://github.com/vectorete/wordle-game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/vectorete
+[linkedin-url]: https://linkedin.com/in/victorkvor
 [product-project]: images/projectimg.png
 [Java]:	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://java.com
